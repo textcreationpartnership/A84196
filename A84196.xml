@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of the taking of Arundel Castle the sixt of this present Ianuary, betweene nine and ten of the clock in the forenoone, by the valour of that ever honoured Knight Sir William Waller. Wherein were taken prisoners, Sir Edward Lloyd colonel, Sir Edward Bishop colonel, Josias Bamfield colonel, Lieutenant Colonel Rawlins, Major Mullins, Major Massey, Major Miles, and of majors, captaines, lieutenants, and reformadoes, about fifty more: as also 1000. prisoners, 1000. armes, 4000. l'.in mony, with other great booties. Sent in a letter from the army. This is licensed and entered in the Hall book according to order.</title>
+            <author>Travers, Jacob.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84196</idno>
+            <idno type="STC">Wing E3624</idno>
+            <idno type="STC">Thomason E81_12</idno>
+            <idno type="STC">ESTC R17915</idno>
+            <idno type="EEBO-CITATION">99860299</idno>
+            <idno type="PROQUEST">99860299</idno>
+            <idno type="VID">112417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112417)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E81[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of the taking of Arundel Castle the sixt of this present Ianuary, betweene nine and ten of the clock in the forenoone, by the valour of that ever honoured Knight Sir William Waller. Wherein were taken prisoners, Sir Edward Lloyd colonel, Sir Edward Bishop colonel, Josias Bamfield colonel, Lieutenant Colonel Rawlins, Major Mullins, Major Massey, Major Miles, and of majors, captaines, lieutenants, and reformadoes, about fifty more: as also 1000. prisoners, 1000. armes, 4000. l'.in mony, with other great booties. Sent in a letter from the army. This is licensed and entered in the Hall book according to order.</title>
+                  <author>Travers, Jacob.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Lindsey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Jacob Travers.</note>
+                  <note>Annotation on Thomason copy: The 4 in the imprint date has been crossed out; "Jan: 9 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Arundel Castle (West Sussex) --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112417:1"/>
+            <pb facs="tcp:112417:1" rendition="simple:additions"/>
+            <p>AN EXACT and TRVE <hi>RELATION</hi> Of the taking of ARVNDEL CASTLE The ſixt of this preſent Ianuary, betweene nine and ten of the clock in the forenoone, by the valour of that ever honoured Knight Sir WILLIAM WALLER.</p>
+            <p>Wherein were taken Priſoners,
+<list>
+                  <item>Sir <hi>Edward Lloyd</hi> Colonel,</item>
+                  <item>Sir <hi>Edward Biſhop</hi> Colonel,</item>
+                  <item>
+                     <hi>Joſia<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Banifield</hi> Colonel,</item>
+                  <item>Lieutenant Colonel <hi>Rawlins,</hi>
+                  </item>
+                  <item>Major <hi>Mullins,</hi>
+                  </item>
+                  <item>Major <hi>Maſſey,</hi>
+                  </item>
+                  <item>Major <hi>Miles,</hi>
+                  </item>
+                  <item>and of Majors, Captaines, Lieutenants, and Reformadoes, about fifty more:</item>
+               </list>
+            </p>
+            <p>As alſo 1000. Priſoners, 1000. Armes, 4000. l. in mony, with other great booties.</p>
+            <p>Sent in a Letter from the Army.</p>
+            <p>This is Licenſed and enterd in the Hall book according to Order.</p>
+            <p>London, Printed for <hi>George Lindſey,</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112417:2"/>
+            <pb n="1" facs="tcp:112417:2"/>
+            <head>An exact and true Relation of the taking of <hi>Arundel Caſtle</hi> on Saturday the ſixt of this preſent January, 1644.</head>
+            <opener>
+               <salute>Right worthy Sir,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Onſidering the ingagements whereby I ſtand ſo deeply obliged unto your Worth, be<g ref="char:EOLhyphen"/>ing myſelfe your man at Armes for the Re<g ref="char:EOLhyphen"/>publick, and for the ſervice of the Parlia<g ref="char:EOLhyphen"/>ment, in which Cauſe I am reſolved to live and dye. I thought I could not preſent you with truer News, or which would more pleaſe the expectation of what paſſed late at <hi>Arundell Caſtle,</hi> and the full manner of the ta<g ref="char:EOLhyphen"/>king of it, which is News that I doubt not but in a cheer<g ref="char:EOLhyphen"/>full readineſſe you will receive, wherein you ſhall under<g ref="char:EOLhyphen"/>ſtand the great mercy which under God we have recei<g ref="char:EOLhyphen"/>ved in ſtrengthning us and preſerving us, and that in a very great and large proportion. Sir the joyfull and gainfull achievement of this place, which lately was the
+<pb n="2" facs="tcp:112417:3"/> Den of the Cavaliers, and is how the place of refuge for us, ſhall be the preſent ſubject of this Letter.</hi>
+            </p>
+            <p>VVEE endured a long and tedious ſiege, the weather was cold, the nights long, and the ſeaſon of the yeare trou<g ref="char:EOLhyphen"/>bled us, who lay in the Field extreamly with high windes and extraordinary ſhowres of raine, yet our hearts (God be thanked) were active, warme, and reſolute, neither did the abſence of the Trayned Bands of <hi>London</hi> who departed homewards, any way d ſanimate us, but rather increaſed our cou<g ref="char:EOLhyphen"/>rage and our faith in God. Indeed our oppoſition was ſtrong, and we loſt at the firſt aſſault ſome ſpe<g ref="char:EOLhyphen"/>ciall Commanders, and ſome other Souldiers, and the great danger we were in day &amp; night might have abated our reſolutions (had not God) in our greateſt neceſſities wonderfully preſerved us, and ſhewed us more wonderfull declarations of his mercy then my dull pen is able to expreſſe: for in the midle of the danger and difficulty of the aſſault, our noble vigi<g ref="char:EOLhyphen"/>lant and Heroick Commander Sir <hi>William Waller,</hi> did ſo cheer up our reſolutions, and put ſuch new fire into our bloud, as it raiſed in us all the ſpirit of forti<g ref="char:EOLhyphen"/>tude to fall upon our enemies, every one of us ſtri<g ref="char:EOLhyphen"/>ving
+<pb n="3" facs="tcp:112417:3"/> to exceed each other in valour, or abſolutely reſolve to endure the loſſe of our lives to the laſt man.</p>
+            <p>Vpon the fourth of this moneth (as often hereto<g ref="char:EOLhyphen"/>fore) we made a ſtrong aſſault of battery againſt the Caſtle, which unexpected charge cauſed (as we conceived) the Enemy to ſtartle, having never found ſo ſtrong a charge before, beſides they were driven into great want of proviſion, which rendred them the more unable to defend themſelves; this we rea<g ref="char:EOLhyphen"/>dily perceived, which cauſed more vigour and reſo<g ref="char:EOLhyphen"/>lution in us to continue the aſſault, and to take a care that none of them ſhould ſcape at the back ſide of the Caſtle by leather boats over the water as ſome of them did heretofore. VVhen the Enemy found our reſolution, and that they muſt either endure the utmoſt that Famine or the Sword could threaten, or ſubmit unto the mercy of the Parliament, they were driven into great perplexities, and underſtanding that there were great Ordnances ſent for from <hi>Portſmouth</hi> to batter the Caſtle, they thought it was their ſafeſt way to ſurrender it, and to deſire termes of compoſition that they might march forth with al their Armes, Horſe and Baggage toward the Lord <hi>Hopton</hi> without any violence to be offered them, but
+<pb n="4" facs="tcp:112417:4"/> the anſwer of the ever Renowned Sir <hi>William Wal<g ref="char:EOLhyphen"/>ler</hi> was, That they ſhould preſently ſurrender up all Priſoners, Armes, Horſes, Standards, Colours and all proviſions of VVar whatſoever with all that is in the Caſtle, That they alſo ſhould ſurrender all Souldiers of ours taken priſoners, and if any of ours had ſuffered in any part by the Enemy that their Souldiers ſhall expect the like uſage from us. The noble Sir <hi>William Waller</hi> proteſted alſo to ſome friends there preſent, that the loſſe of his friends and ſome Souldiers in that ſervice were more pretious to him then the gaining of ſo many deſperate Malignants which had long ſtood out to maintaine a Caſtle wherein they found ſo little probability to relieve themſelves. The beſieged when they found no hope of reliefe, and that their Lord <hi>Hopton</hi> was re<g ref="char:EOLhyphen"/>treated towards <hi>Wincheſter,</hi> came forth and ſurren<g ref="char:EOLhyphen"/>dred themſelves on the ſixt of this preſent Ianuary betwixt nine and ten in the forenoon; the ſouldi<g ref="char:EOLhyphen"/>ers and Governour himſelfe being in a miſerable diſtreſſe and perplexity all the night before: There were taken in it Sir <hi>Edward Lloyd</hi> Colonell, Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Biſhop</hi> Colonell, <hi>Ioſias Bamfield</hi> Colonell, Lieu<g ref="char:EOLhyphen"/>tenant Colonell <hi>Rawlins,</hi> Major <hi>Mullins,</hi> Major <hi>Maſſey,</hi> Major <hi>Mils;</hi> and of Majors, Captaines, Lieu<g ref="char:EOLhyphen"/>tenants
+<pb n="5" facs="tcp:112417:4"/> and Reformadoes about fifty more. There were ta<g ref="char:EOLhyphen"/>ken alſo a thouſand Priſoners, a thouſand Armes, foure thou<g ref="char:EOLhyphen"/>ſand pound in money, with other good booty. It is certain we loſt ſome Commanders and good Souldiers in the many aſ<g ref="char:EOLhyphen"/>ſaults that were made againſt the Caſtle, which did all extra<g ref="char:EOLhyphen"/>ordinary good ſervice, but we have now in the taking of it ſa<g ref="char:EOLhyphen"/>tisfaction for that loſſe. Sir <hi>William Waller</hi> reſolved that if Sir <hi>Ralph Hopton</hi> will not finde out him, he will finde out <hi>Hop<g ref="char:EOLhyphen"/>ton.</hi> We have a long time expected the aſſiſtance of foure Regiments from London, but (as I was writing this) I heard they were upon their march. I beleeve we ſhall with all ſpeed (having put a ſufficient garriſon into this place) march further Southwards. I doubt not but you will pray for our ſucceſſe whereſoever we ſhall advance: and the reſt of our friends de<g ref="char:EOLhyphen"/>ſire you with me, that you wil joyn with us to render al hearty thanks to Almighty God who giveth us victory, and will yet doe great and wonderfull things. I pray remember my love to my wife to whom I have alſo written, and withall, &amp;c.</p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>Sir the haſte of this preſent Poſt, although my intimate friend, hath cauſed me to omit many particulars, which at the next you ſhall receive at large from him who is yours,</p>
+            <closer>
+               <signed>Jacob Travers.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
